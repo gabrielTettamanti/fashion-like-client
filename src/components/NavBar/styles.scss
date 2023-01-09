@@ -1,0 +1,39 @@
+header {
+    height: 32.5vh;
+    background-color: #fff;
+    display: flex;
+    align-items: flex-end;
+}
+    .nav-bar {
+        position: sticky;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: row;
+        flex-wrap: wrap;
+        height: 34.4%;
+        width: 100vw;
+        margin: 0px 0px 25px 0px;
+    }
+    .logo-container {
+        height: 100%;
+        width: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+        .fashion-like-logo {
+            height: 100%;
+        }
+    .menu-container{
+        height: 100%;
+        width: 30%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+        .menu-option {
+            color: #FFB800;
+            font-family: 'Dancing Script', cursive;
+            font-size: 30px;
+        }
