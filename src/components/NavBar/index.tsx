@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 import './styles.scss'
 import FashionLikeLogo from '../../assets/img/logo.jpg'
-class NavBar extends Component {
+export default class NavBar extends Component {
   // constructor(props) {
   // }
 
@@ -22,5 +22,3 @@ class NavBar extends Component {
     );
   }
 }
-
-export default NavBar;

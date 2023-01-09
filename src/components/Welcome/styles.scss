@@ -1,0 +1,13 @@
+.welcome-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 67.5vh;
+}
+    .most-viewed-post {
+        width: 30vw;
+    }
+        .most-viewed-post-img {
+            width: 70%;
+            height: auto;
+        }
