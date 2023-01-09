@@ -6,8 +6,19 @@
 }
     .most-viewed-post {
         width: 30vw;
+        display: flex;
+        justify-content: center;
+        align-self: flex-start;
+        margin: 40px;
     }
         .most-viewed-post-img {
             width: 70%;
             height: auto;
         }
+    .welcome-carousel {
+        width: 50%;
+        height: 70%;
+        background-color: #ffffff70;
+        align-self: flex-end;
+        margin: 40px;
+    }
