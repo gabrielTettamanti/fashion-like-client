@@ -6,6 +6,9 @@
 }
 
 .App {
-  background-color: black;
+  /* background-color: black; */
+  background-image: url('./assets/img/fashion-like-background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 100vh;
 }
